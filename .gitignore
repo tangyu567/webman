@@ -51,7 +51,7 @@ captures/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
-
+doc
 # Freeline
 freeline.py
 freeline/
